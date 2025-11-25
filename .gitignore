@@ -1,0 +1,10 @@
+facility.ipynb
+__pycache__/
+*.log
+.DS_Store
+env/
+.vscode/
+*.pyc
+*.zip
+Programming_assignment.pdf
+*docx
